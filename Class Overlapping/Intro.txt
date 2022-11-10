@@ -1,0 +1,2 @@
+This project works on the problem of class overlapping in dataset.
+We have used various methods to overcome this problem.
