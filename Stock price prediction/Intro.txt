@@ -1,0 +1,1 @@
+We have tried to predict the stock price for the next period on the basis of given data of previous year.
